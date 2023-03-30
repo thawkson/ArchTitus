@@ -3,7 +3,6 @@ autojump
 brave-bin
 bridge-utils
 dxvk-bin
-github-desktop-bin
 lightly-git
 lightlyshaders-git
 mangohud
@@ -20,3 +19,18 @@ snapper-gui-git
 ttf-meslo
 vde2
 zoom
+slack
+vlc
+dropbox
+handbrake
+1password
+android-studio
+rdesktop
+xfreedrp
+kodi
+kubectl
+kind
+asdf
+docker
+zeal
+intellij 

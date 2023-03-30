@@ -84,7 +84,6 @@ python-pip
 qemu
 snap-pac
 snapper
-steam
 swtpm
 synergy
 terminus-font
