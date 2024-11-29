@@ -27,7 +27,6 @@ bridge-utils
 btrfs-progs
 celluloid
 cmatrix
-code
 cronie
 cups
 dialog
@@ -37,6 +36,7 @@ dtc
 efibootmgr
 egl-wayland
 exfat-utils
+firefox
 flex
 fuse2
 fuse3

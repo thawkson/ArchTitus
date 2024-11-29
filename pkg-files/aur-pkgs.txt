@@ -1,6 +1,7 @@
+1password
 autojump
-brave-bin
 bridge-utils
+dropbox
 dxvk-bin
 konsave
 lightly-git
@@ -14,6 +15,8 @@ nordic-kde-git
 nordic-theme
 ocs-url
 plymouth-git
+rancher-desktop
 sddm-nordic-theme-git
 ttf-meslo
 vde2
+visual-studio-code-bin
